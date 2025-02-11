@@ -1,2 +1,5 @@
 # Insurance-Mathematics-Degree-Project
-Using autoencoders to initialize neural networks for claims prediction
+Code used for the thesis "Using autoencoders to initialize neural networks for claims prediction"
+
+
+
